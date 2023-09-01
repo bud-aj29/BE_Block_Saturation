@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Enhances the color saturation of block textures",
+        "name": "Block_Saturation_1.50x_v0.0.1",
+        "uuid": "2600c213-55e5-4c42-8ea9-66cad7d988f1",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 20, 10 ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "56b76198-3894-4d8c-814b-f8d11bebb55d",
+            "version": [0, 0, 1]
+        }
+    ]
+}
